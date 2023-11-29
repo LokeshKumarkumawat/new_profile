@@ -19,7 +19,7 @@ const Navbar = () => {
 
   const handleDownload = () => {
     // Replace 'your_file_url' with the actual URL of your file
-    const fileUrl = 'https://drive.google.com/file/d/1bu-ZRWiy_ZMgMAyqUmiQecb-onqqMU_y/view?usp=sharing';
+    const fileUrl = 'https://drive.google.com/file/d/1bfW6a7RcJnuIupkMEDwWCbgVJGVgJfQq/view?usp=sharing';
 
     // Open a new window with the file URL
     window.open(fileUrl, '_blank');
